@@ -59,6 +59,10 @@ For your code to run smoothly there are some python scripts in (folder modules) 
     - modules (py files)
         - SL_model.py
         - SL_data.py
+        - RL_dqn.py
+        - RL_car_dqn.py
+        - RL_exp_replay.py
+        - RL_processingimage.py
     - Basics_of_Convolutional_Neural_Network.ipynb
     - Self Driving Car using Supervised Learning
     - Basics_of_Deep_Q_Learning
@@ -66,6 +70,7 @@ For your code to run smoothly there are some python scripts in (folder modules) 
     - Supervised_IL_train_images
     - Supervised_IL_test_images
     - Supervised_IL_models
+    - IL_Videos
     - Images (All images used in project)
    
 
